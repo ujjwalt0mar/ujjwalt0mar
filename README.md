@@ -62,11 +62,6 @@ class UjjwalTomar:
 - Organised **Google Cloud Agentic AI Day** for 100+ attendees
 - Coordinating with **Google Developer Experts** on AI/ML sessions
 
-### 🖥️ CESTA
-**Management Sub-Head** · Sep 2024 – Sep 2025
-
-- Managed **5+ technical events** (200+ participants)
-- Improved event execution efficiency by **40%**
 
 </td>
 </tr>
@@ -78,17 +73,6 @@ class UjjwalTomar:
 
 <table>
 <tr>
-<td width="50%">
-
-### 🔍 TrueLens AI
-> Forensic Image Intelligence Platform
-
-- Deepfake & image manipulation detection
-- **Stack:** PyTorch · EfficientNet-B3 · FastAPI
-- Co-developed with [Udit Tomar](https://github.com)
-- Production-ready REST API with confidence scoring
-
-</td>
 <td width="50%">
 
 ### 🗄️ PolyQuery AI
