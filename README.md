@@ -84,8 +84,6 @@ class UjjwalTomar:
 - Built for Next-Generation Databases coursework
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📡 TCPDump Traffic Insights
@@ -98,7 +96,9 @@ class UjjwalTomar:
 - **Stack:** Python · Scikit-learn · TCPDump · Pandas
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%" colspan="2">
 
 ### ⚙️ Code.OPT
 > AI-Powered Code Optimisation Platform
